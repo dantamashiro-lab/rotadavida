@@ -807,3 +807,4 @@ st.markdown(f"""
   Dados: 01/04/2025 – 31/03/2026
 </div>
 """, unsafe_allow_html=True)
+print("ok")
