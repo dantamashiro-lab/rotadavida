@@ -5,3 +5,4 @@ requests>=2.31.0
 numpy>=1.26.0
 geopandas>=0.13.0
 folium>=0.14.0
+st_folium>=0.10.0
